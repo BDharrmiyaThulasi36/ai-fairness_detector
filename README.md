@@ -39,20 +39,3 @@ Tech Stack:
 * Matplotlib (charts)
 
 ---
-
-How to Run:
-
-# 1. Clone repo
-git clone https://github.com/your-username/fairness-auditor.git
-cd fairness-auditor
-
-# 2. Create virtual environment
-python -m venv venv
-venv\Scripts\activate   # Windows
-source venv/bin/activate  # Mac/Linux
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run app
-streamlit run app.py
